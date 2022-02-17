@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleActivity</string>
+    <string name="welcome_to_my_simple_app">Welcome to my simple app!</string>
+    <string name="press_a_button_to_start">Press a button to start:</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+    <string name="enter_a_phone_number">Enter a phone number:</string>
+    <string name="_312_555_1212">312 555 1212</string>
+    <string name="dial">Call</string>
+    <string name="input">Input</string>
+</resources>
